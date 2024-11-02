@@ -12,4 +12,4 @@ C:\Windows\system32> Hi, I’m @24k-zilxh
 
 \\> Fun fact: I like airplanes, preferably Airbus aircraft (A350-1000 is a work of ART👌)
 
-\\> 🏢 = Toronto, Canada.
+\\> I live in Toronto 🍁
