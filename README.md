@@ -1,4 +1,4 @@
-\\> Hi, I’m @24k-zilxh
+C:\Windows\system32> Hi, I’m @24k-zilxh
 
 \\> I’m interested in airplanes, Python 3 programming and PC Hardware! 🖥️✈️
 
@@ -6,7 +6,7 @@
 
 \\> I’m not looking to collaborate anytime soon.
 
-\\> If you need to reach me, just comment on my projects
+\\> You probably won't need to reach me
 
 \\> Pronouns: **He/Him** 
 
